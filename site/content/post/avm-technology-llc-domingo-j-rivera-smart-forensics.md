@@ -99,6 +99,6 @@ categories:
   Computer forensics performed so smartly that even Albert wears our T-shirt
 </h2>
 
-This page will contain articles about computer forensics and information security. &nbsp;The articles will be created by the Virginia computer forensics trial experts at AVM Technology, LLC and by Domingo J Rivera. &nbsp;We will also accept submissions by other thought leads in the fields of computer forensics and information security. &nbsp;Stay tuned for articles, tips, and advice for doing forensics the smart way!
+This page will contain articles about computer forensics and information security.  The articles will be created by the Virginia computer forensics trial experts at AVM Technology, LLC and by Domingo J Rivera.  We will also accept submissions by other thought leads in the fields of computer forensics and information security.  Stay tuned for articles, tips, and advice for doing forensics the smart way!
 
-&nbsp;
+ 
