@@ -1,32 +1,13 @@
 ---
-id: 35
 title: Thompson v. Holder
-date: 2019-03-04T02:44:52+00:00
-author: avmtechnology
-layout: post
-guid: http://www.einstein.us/thompson-v-holder/
-permalink: /thompson-v-holder/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberlawyer.tech/thompson-v-holder/
-vw_post_views_all:
-  - "30"
-vw_post_views_week-201910:
-  - "6"
-vw_post_views_month-201903:
-  - "30"
-vw_post_views_year-2019:
-  - "30"
-vw_post_views_week-201911:
-  - "17"
-vw_post_views_week-201912:
-  - "7"
-image: /wp-content/uploads/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg
-categories:
-  - Cyber Law Cases
+date: 2019-03-04T02:44:52.000Z
+description: >-
+  Below, you will find the text of the court's opinion for this interesting
+  case. If you would rather read some of the highlights, you may find some parts
+  of the opinion in the blog of cyber lawyer Domingo J. Rivera. On the other
+  hand, if you are more interested in the cyber security aspects of the opinion,
+  Infosecly has an article about this case.
+image: /img/be8dc27e-e1a9-4983-8c98-741c6091011a-750x375.jpeg
 ---
 <figure class="post-full-image"><img srcset="http://www.cyberlawyer.tech/content/images/size/w300/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg 300w, &#10; http://www.cyberlawyer.tech/content/images/size/w600/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg 600w, &#10; http://www.cyberlawyer.tech/content/images/size/w1000/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg 1000w, &#10; http://www.cyberlawyer.tech/content/images/size/w2000/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg 2000w" src="http://www.cyberlawyer.tech/content/images/size/w2000/2019/03/BE8DC27E-E1A9-4983-8C98-741C6091011A.jpeg" alt="Thompson v. Holder" /></figure> <section class="post-full-content"> 
 

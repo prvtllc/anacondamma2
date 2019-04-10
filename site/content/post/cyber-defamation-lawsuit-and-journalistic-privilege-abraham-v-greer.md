@@ -1,34 +1,11 @@
 ---
-id: 46
-title: 'Cyber Defamation Lawsuit and Journalistic Privilege - Abraham v. Greer'
-date: 2019-03-06T16:48:06+00:00
-author: avmtechnology
-layout: post
-guid: https://www.einstein.us/cyber-defamation-lawsuit-and-journalistic-privilege-abraham-v-greer/
-permalink: /cyber-defamation-lawsuit-and-journalistic-privilege-abraham-v-greer/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberdefamationlawyer.com/cyber-defamation-lawsuit-journalistic/
-vw_post_views_all:
-  - "12"
-vw_post_views_week-201911:
-  - "9"
-vw_post_views_month-201903:
-  - "11"
-vw_post_views_year-2019:
-  - "12"
-vw_post_views_week-201912:
-  - "2"
-vw_post_views_week-201915:
-  - "1"
-vw_post_views_month-201904:
-  - "1"
-image: /wp-content/uploads/2019/03/IMG_1402.jpg
-categories:
-  - Defamation Investigation Cases
+title: Cyber Defamation Lawsuit and Journalistic Privilege - Abraham v. Greer
+date: 2019-03-06T16:48:06.000Z
+description: >-
+  This case illustrates the competing interests involved when journalism is used
+  as a claimed privilege during a cyber defamation lawsuit. How is actual malice
+  proven during the case?
+image: /img/img_1402-1024x537.jpg
 ---
 _**This case illustrates the competing interests involved when journalism is used as a claimed privilege during a cyber defamation lawsuit. How is actual malice proven during the case? The opinion follows:**_
 

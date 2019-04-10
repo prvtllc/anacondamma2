@@ -1,32 +1,13 @@
 ---
-id: 33
 title: Zachary Chesser v. Federal Bureau of Investigation
-date: 2019-03-04T02:56:30+00:00
-author: avmtechnology
-layout: post
-guid: http://www.einstein.us/zachary-chesser-v-federal-bureau-of-investigation/
-permalink: /zachary-chesser-v-federal-bureau-of-investigation/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberlawyer.tech/zachary-chesser-v-federal-bureau-of-investigation/
-vw_post_views_all:
-  - "17"
-vw_post_views_week-201910:
-  - "6"
-vw_post_views_month-201903:
-  - "17"
-vw_post_views_year-2019:
-  - "17"
-vw_post_views_week-201911:
-  - "9"
-vw_post_views_week-201912:
-  - "2"
-image: /wp-content/uploads/2019/03/5204B37C-5389-4BEE-957A-470AF095D096.jpeg
-categories:
-  - Cyber Law Cases
+date: 2019-03-04T02:56:30.000Z
+description: >-
+  Interesting case with all the drama. It has foreign surveillance, FBI
+  investigations, child custody and a bit of crazy with the Plaintiff suing the
+  FBI for conspiring with his mother while having him under surveillance. More
+  in depth commentary by attorney Domingo Juan Rivera coming soon. In the
+  meantime, you may read the opinion below.
+image: /img/5204b37c-5389-4bee-957a-470af095d096-1024x514.jpeg
 ---
 Zachary Chesser also known as Abu Talhah, Plaintiff,  
 v.  

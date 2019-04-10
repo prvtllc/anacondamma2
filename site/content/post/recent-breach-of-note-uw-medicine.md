@@ -1,32 +1,13 @@
 ---
-id: 24
-title: 'Recent Breach of Note &#8211; UW Medicine'
-date: 2019-03-04T20:33:02+00:00
-author: avmtechnology
-layout: post
-guid: http://www.einstein.us/recent-breach-of-note-uw-medicine/
-permalink: /recent-breach-of-note-uw-medicine/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.d3fcon.com/recent-breach-of-note/
-vw_post_views_all:
-  - "20"
-vw_post_views_week-201910:
-  - "8"
-vw_post_views_month-201903:
-  - "20"
-vw_post_views_year-2019:
-  - "20"
-vw_post_views_week-201911:
-  - "8"
-vw_post_views_week-201912:
-  - "4"
-image: /wp-content/uploads/2019/03/unnamed.jpg
-categories:
-  - Cybersecurity Topics From the Community
+title: Recent Breach of Note - UW Medicine
+date: 2019-03-04T20:33:02.000Z
+description: >-
+  In this case, the information related to 974,000 patients was posted to Google
+  nonetheless. The information that leaked included The files contained: Name,
+  Medical record number, With whom UW Medicine shared your information. A
+  description of what information about you was shared (For example, 
+  demographics ,  office visits  or  labs ).
+image: /img/unnamed-750x375.jpg
 ---
 <time datetime="2019-03-04">March 4, 2019</time> | [d3fcon](http://www.d3fcon.com/author/d3fcon/)<section class="post-content"> <figure class="kg-card kg-image-card">
 
