@@ -1,29 +1,14 @@
 ---
-id: 51
-title: 'Another Breach of Note &#8211; UConn Health'
-date: 2019-03-14T19:50:39+00:00
-layout: post
-guid: http://einstein.us/another-breach-of-note-uconn-health/
-permalink: /another-breach-of-note-uconn-health/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.d3fcon.com/another-breach-of-note/
-vw_post_views_all:
-  - "11"
-vw_post_views_week-201911:
-  - "9"
-vw_post_views_month-201903:
-  - "11"
-vw_post_views_year-2019:
-  - "11"
-vw_post_views_week-201912:
-  - "2"
-image: /wp-content/uploads/2019/03/uconn-health-white.jpg
-categories:
-  - Cybersecurity Topics From the Community
+title: Another Breach of Note - UConn Health
+date: 2019-03-14T19:50:39.000Z
+description: >-
+  UConn self-reported that an unauthorized third party got access to some
+  employee email accounts. The information obtained included Social Security
+  numbers, birthdays, billing details and medical appointments. The breach
+  affected as many as 326,000 individuals, and 1,500 of them may have involved
+  Social Security numbers. It was also revealed that the source of the breach
+  was a phishing attack but the perpetrator is still unidentified. 
+image: /img/uconn-health-white-750x375.jpg
 ---
 We recently discussed the [breach at the University of Washington](http://www.d3fcon.com/recent-breach-of-note/) health. This time, we have another College affiliated hospital breach, UConn Health. <figure class="kg-card kg-image-card kg-card-hascaption">
 
