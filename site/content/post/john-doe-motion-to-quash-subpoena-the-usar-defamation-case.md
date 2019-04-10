@@ -1,31 +1,12 @@
 ---
-id: 37
-title: 'John Doe Motion To Quash Subpoena &#8211; The USAR Defamation Case'
-date: 2019-03-06T17:20:33+00:00
-layout: post
-guid: http://einstein.us/john-doe-motion-to-quash-subpoena-the-usar-defamation-case/
-permalink: /john-doe-motion-to-quash-subpoena-the-usar-defamation-case/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberlawyer.tech/john-doe-motion-to-quash-subpoena/
-vw_post_views_all:
-  - "15"
-vw_post_views_week-201910:
-  - "5"
-vw_post_views_month-201903:
-  - "15"
-vw_post_views_year-2019:
-  - "15"
-vw_post_views_week-201911:
-  - "8"
-vw_post_views_week-201912:
-  - "2"
-image: /wp-content/uploads/2019/03/IMG_1406-1.jpg
-categories:
-  - Cyber Law Cases
+title: John Doe Motion To Quash Subpoena - The USAR Defamation Case
+date: 2019-03-06T17:20:33.000Z
+description: >-
+  This case involves an appeal to an Order denying a Motion to Quash a subpoena.
+  The purpose of the subpoena was to unmask the identity of the individual
+  posting accusations regarding alleged securities fraud by USAR. The opinion
+  follows.
+image: /img/img_1406-1-750x375.jpg
 ---
 <figure class="post-full-image">![John Doe Motion To Quash Subpoena - The USAR Defamation Case](http://www.cyberlawyer.tech/content/images/size/w2000/2019/03/IMG_1406-1.jpg)</figure> <section class="post-full-content"> 
 
