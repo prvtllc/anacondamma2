@@ -1,32 +1,14 @@
 ---
-id: 29
 title: Defendant Convicted of Possession of Contraband After Forensic Analysis
-date: 2019-03-04T02:21:24+00:00
-author: avmtechnology
-layout: post
-guid: http://www.einstein.us/defendant-convicted-of-possession-of-contraband-after-forensic-analysis/
-permalink: /defendant-convicted-of-possession-of-contraband-after-forensic-analysis/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberforensics.tech/defendant-convicted-of-possession-of-contraband-after-forensic-analysis/
-vw_post_views_all:
-  - "16"
-vw_post_views_week-201910:
-  - "6"
-vw_post_views_month-201903:
-  - "16"
-vw_post_views_year-2019:
-  - "16"
-vw_post_views_week-201911:
-  - "8"
-vw_post_views_week-201912:
-  - "2"
-image: /wp-content/uploads/2019/03/IMG_1393.jpg
-categories:
-  - Computer Forensics Cases
+date: 2019-03-04T02:21:24.000Z
+description: >-
+  On November 21, 2013, Petitioner was named in a criminal indictment charging
+  him with various counts of production and receipt of child pornography. ECF
+  No. 16. On January 9, 2014, those charges were dismissed, and Petitioner was
+  named in a superseding criminal indictment charging him with various counts of
+  production and receipt of child pornography as well as various counts of
+  conspiracy to produce child pornography and use of interstate
+image: /img/img_1393-750x375.jpg
 ---
 ROBERT HAROLD SCOTT, JR., Petitioner,  
 v.  
