@@ -1,36 +1,15 @@
 ---
-id: 31
 title: The spy Case of Kevin Patrick Mallory
-date: 2019-03-04T01:33:49+00:00
-author: avmtechnology
-layout: post
-guid: http://www.einstein.us/the-spy-case-of-kevin-patrick-mallory/
-permalink: /the-spy-case-of-kevin-patrick-mallory/
-vw_post_likes:
-  - "0"
-feedzy:
-  - "1"
-feedzy_item_url:
-  - http://www.cyberforensics.tech/the-spy-case-of-kevin-patrick-mallory/
-vw_post_views_all:
-  - "18"
-vw_post_views_week-201910:
-  - "7"
-vw_post_views_month-201903:
-  - "17"
-vw_post_views_year-2019:
-  - "18"
-vw_post_views_week-201911:
-  - "8"
-vw_post_views_week-201912:
-  - "2"
-vw_post_views_week-201915:
-  - "1"
-vw_post_views_month-201904:
-  - "1"
-image: /wp-content/uploads/2019/03/865A6782-F81A-4772-8FA5-BDA156306AA3.jpeg
-categories:
-  - Computer Forensics Cases
+date: 2019-03-04T01:33:49.000Z
+description: >-
+  Defendant now moves for judgment of acquittal on the grounds (i) that the
+  government 's evidence at trial was insufficient to support the conspiracy
+  charge alleged in Count 1, (ii) that it was an error to deny defendant 's
+  request for a buyer-seller instruction in connection with the conspiracy
+  charge alleged in Count 1, and (iii) that the government 's evidence at trial
+  was insufficient to support a finding of venue on the offenses charged in
+  Counts 2 and 3.
+image: /img/865a6782-f81a-4772-8fa5-bda156306aa3-750x375.jpeg
 ---
 **UNITED STATES OF AMERICA,**
 
